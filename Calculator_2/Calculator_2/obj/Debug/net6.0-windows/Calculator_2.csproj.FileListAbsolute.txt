@@ -1,0 +1,51 @@
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.Form1.resources
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.csproj.GenerateResource.cache
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.exe
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.deps.json
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.runtimeconfig.json
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.dll
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.pdb
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.dll
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\refint\Calculator_2.dll
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.pdb
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.genruntimeconfig.cache
+C:\Users\Maksim\source\repos\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\ref\Calculator_2.dll
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.exe
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.deps.json
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.runtimeconfig.json
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.dll
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.pdb
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.csproj.AssemblyReference.cache
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.Form1.resources
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.csproj.GenerateResource.cache
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.AssemblyInfoInputs.cache
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.AssemblyInfo.cs
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.csproj.CoreCompileInputs.cache
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.dll
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\refint\Calculator_2.dll
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.pdb
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.genruntimeconfig.cache
+C:\Users\Альберт\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\ref\Calculator_2.dll
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.exe
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.deps.json
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.runtimeconfig.json
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.dll
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\bin\Debug\net6.0-windows\Calculator_2.pdb
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.csproj.AssemblyReference.cache
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.Form1.resources
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.csproj.GenerateResource.cache
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.AssemblyInfoInputs.cache
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.AssemblyInfo.cs
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.csproj.CoreCompileInputs.cache
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.dll
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\refint\Calculator_2.dll
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.pdb
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\Calculator_2.genruntimeconfig.cache
+C:\Users\FIRDAVS PC\Desktop\проекты за 2 семестр\Calculator_2\Calculator_2\obj\Debug\net6.0-windows\ref\Calculator_2.dll

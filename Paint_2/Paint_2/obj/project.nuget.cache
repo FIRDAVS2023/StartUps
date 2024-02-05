@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5li1gaazBfy3EHTzvg+pWlus6vsiPfctt7CLCIr2lVfaIASuCRgCsfpV0cYse07a1ZehgnEfOBHUDpbmJVJaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FIRDAVS PC\\Desktop\\проекты за 2 семестр\\Paint_2\\Paint_2\\Paint_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FIRDAVS PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\FIRDAVS PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\FIRDAVS PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\FIRDAVS PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

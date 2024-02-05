@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AFJI4eWR3/PuSJBLjoJAbaGFmrqKVzO92HJhX2lAwaKDLpa/nMK0qYUH3tWBER8ngsRpbIXPaEb2ofZAdHQWNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FIRDAVS PC\\Desktop\\проекты за 2 семестр\\Calculator_2\\Calculator_2\\Calculator_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FIRDAVS PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\FIRDAVS PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\FIRDAVS PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\FIRDAVS PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
